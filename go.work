@@ -1,0 +1,6 @@
+go 1.21.6
+
+use (
+	./goWeb-classExercise-01
+	./goWeb-practice-01
+)
